@@ -1,0 +1,48 @@
+*{
+  margin:0px;
+ 
+}
+.bg-container{
+  background-color:rgb(209, 235, 243);
+  padding:50px;
+}
+table {
+    width: 80%;
+    margin: 20px 0;
+    border:1px solid black;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+ 
+  input[type="text"], input[type="number"] {
+    padding: 6px;
+    border: 1px solid black;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    width: 100%;
+  }
+  
+  .heading {
+    margin-top:20px;
+  }
+  .btn {
+    margin-right:10px;
+  }
+  
+  
+  
+  
